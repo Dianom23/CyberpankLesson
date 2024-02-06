@@ -346,10 +346,10 @@ nav li:last-child{
 
 .section-full_immersion .markdown-list p:nth-child(1)::before{
     background-image: url("/img/color_lens.png");
-}"
+}
 .section-full_immersion .markdown-list p:nth-child(2)::before{
     background-image: url("/img/auto_awesome.png");
-}"
+}
 .section-full_immersion .markdown-list p:nth-child(3)::before{
     background-image: url("/img/auto_awesome_motion.png");
 }
